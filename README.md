@@ -31,7 +31,7 @@ python app.py
 ```
     
 ## Live Dashboard
-[Click here to view the live dashboard](https://github.com/Heritier1990/supermarket-sales-dashboard/edit/main/README.md))
+[Click here to view the live dashboard](https://supermarket-sales-dashboard-2.onrender.com))
 
 
 ## Results Summary
@@ -42,5 +42,5 @@ python app.py
 
 ## Author
 Henri Simo Sepewou
-bilichaud1990@gmail.com
-[GitHub Profile](https://github.com/Heritier1990)    
+bilichaud1990@gmail.com    
+GitHub Profile: <https://github.com/Heritier1990>    
